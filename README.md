@@ -1,1 +1,1 @@
-- create environmen = conda ceate -p venv python==3.9
+``create environment = conda ceate -p venv python==3.9``
